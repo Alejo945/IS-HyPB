@@ -6,4 +6,4 @@ This repository contains the scripts used in the reaserch project "Development o
 
 - Alternativley the zero short variant prediction can also be ran following the instructions from ESM-1v in https://github.com/facebookresearch/esm/tree/main/examples/variant-prediction 
 
-- The scripts and instructions to fine tune and run the de novo protein generation with ProtGPT2 can be found at https://huggingface.co/nferruz/ZymCTRL. The EC class used was 2.7.7.B22
+- The scripts and instructions to fine tune and run the de novo protein generation with ProtGPT2 can be found at https://huggingface.co/nferruz/ZymCTRL. The EC class used was 2.7.7.B22. Sequence generation and fine tunning can be ran in google colab pro, but fine tunning can take 24 hours to run. 
